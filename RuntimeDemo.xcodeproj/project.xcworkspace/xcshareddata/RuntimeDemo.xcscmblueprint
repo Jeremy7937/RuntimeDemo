@@ -1,0 +1,25 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "d9d7f2cf-2d0e-994b-90ed-301ecedbbe65++7200",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "d9d7f2cf-2d0e-994b-90ed-301ecedbbe65++7200" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "d9d7f2cf-2d0e-994b-90ed-301ecedbbe65++7200" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "1CA420DF-4D49-41AE-8BEC-E69F13ED76FD",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "d9d7f2cf-2d0e-994b-90ed-301ecedbbe65++7200" : "Healthdoctor\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "RuntimeDemo",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "RuntimeDemo\/RuntimeDemo.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/hzswvasvn01\/svn\/hzhc",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "d9d7f2cf-2d0e-994b-90ed-301ecedbbe65++7200"
+    }
+  ]
+}
